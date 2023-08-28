@@ -1,4 +1,4 @@
-from main import display_menu
+from menu_util import display_menu
 
 # Example usage:
 menu_title = "Main Menu"
